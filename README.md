@@ -1,1 +1,1 @@
-# test-git-conflict
+this i s server edition
